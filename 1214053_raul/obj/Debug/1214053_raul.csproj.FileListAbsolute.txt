@@ -1,0 +1,11 @@
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\bin\Debug\1214053_raul.exe.config
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\bin\Debug\1214053_raul.exe
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\bin\Debug\1214053_raul.pdb
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\1214053_raul.csproj.AssemblyReference.cache
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\1214053_raul.csproj.SuggestedBindingRedirects.cache
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\_1214053_raul.Form1.resources
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\_1214053_raul.Properties.Resources.resources
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\1214053_raul.csproj.GenerateResource.cache
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\1214053_raul.csproj.CoreCompileInputs.cache
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\1214053_raul.exe
+C:\Users\L E N O V O\source\repos\1214053_raul\1214053_raul\obj\Debug\1214053_raul.pdb
